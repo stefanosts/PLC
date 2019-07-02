@@ -2,6 +2,6 @@ numpy
 pandas
 matplotlib
 ipywidgets
-tkinter
+tkinter==8.6
 xlrd
 IPython
