@@ -2,6 +2,5 @@ numpy
 pandas
 matplotlib
 ipywidgets
-python-tk
 xlrd
 IPython
